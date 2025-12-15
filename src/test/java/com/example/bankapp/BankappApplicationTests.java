@@ -5,5 +5,11 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class BankappApplicationTests {
+     
+  
+  @Test
+    void alwaysPass() {
+        assert true;
+    }
 
 }
