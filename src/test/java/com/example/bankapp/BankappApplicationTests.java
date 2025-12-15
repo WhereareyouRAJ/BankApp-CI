@@ -7,9 +7,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 class BankappApplicationTests {
      
   
-  @Test
-    void alwaysPass() {
-        assert true;
-    }
+ 
 
 }
